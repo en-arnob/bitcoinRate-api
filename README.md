@@ -5,6 +5,7 @@ The user will set the currency code(USD, EUR, GBR) as a parameter in the request
 * The highest Bitcoin rate in the last 30 days, in the requested currency
 
 ## Dockerized at [Docker Hub](https://hub.docker.com/r/enarnob/bitcoin_info-express-api) :whale:
+> $ docker run -p 8080:8080 enarnob/bitcoin_info-express-api:latest
 
 **API Endpoint Documentation**
 ----
