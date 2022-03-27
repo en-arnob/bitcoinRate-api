@@ -1,4 +1,4 @@
-# bitcoinRate-api
+# bitcoinRate-api 	:currency_exchange:
 The user will set the currency code(USD, EUR, GBR) as a parameter in the request body. The server returns
 * The current Bitcoin rate, in the requested currency
 * The lowest Bitcoin rate in the last 30 days, in the requested currency
