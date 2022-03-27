@@ -36,7 +36,7 @@ The user will set the currency code(USD, EUR, GBR) as a parameter in the request
     }
     
 *  **URL Params**
-`currenncy`=`EUR`
+`currency`=`EUR`
 
 *  **URL**
 
