@@ -1,0 +1,19 @@
+{
+  "name": "coindesk-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js "
+  },
+  "keywords": [],
+  "author": "Khalid Ibn Alam Utsob",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-fetch": "^3.2.3",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
