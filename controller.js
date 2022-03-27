@@ -28,7 +28,7 @@ exports.apiGetController = (req, res, next) => {
         // console.log(rates);
         let maxRate = Math.max(...rates);
         let minRate = Math.min(...rates);
-        newObj = {
+        let newObj = {
           date: todayFormatted,
           requestedCurrency: currency.toUpperCase(),
           currentBitCoinRate: obj[Object.keys(obj)[29]],
